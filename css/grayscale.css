@@ -6,13 +6,13 @@
 
 #mainNav {
   min-height: 56px;
-  background-color: #fff;
+  background-color: #f44336;
 }
 
 #mainNav .navbar-toggler {
   font-size: 80%;
   padding: 0.75rem;
-  color: #64a19d;
+  color: #f44336;
   border: 1px solid #64a19d;
 }
 
@@ -21,7 +21,7 @@
 }
 
 #mainNav .navbar-brand {
-  color: #161616;
+  color: #f44336;
   font-weight: 700;
   padding: .9rem 0;
 }
@@ -34,7 +34,7 @@
 
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
   outline: none;
-  background-color: #000000;
+  background-color: #f44336;
 }
 
 @media (min-width: 992px) {
@@ -42,7 +42,7 @@
     padding-top: 0;
     padding-bottom: 0;
     border-bottom: none;
-    background-color: #000000;
+    background-color: #f44336;
     transition: background-color 0.3s ease-in-out;
   }
   #mainNav .navbar-brand {
